@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #fceb06;
+}
+
+img{
+    height: auto;
+    width: auto;
+    max-height: 600px;
+    max-width: 600px;
+}
+
+.txtPrototype
+{
+    color: #312783;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position:absolute;
+    left: 420px;
+    margin-top: 60px;
+}
+
+.bigLogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 700px;
+    left: 400px;
+    margin-top: 85px;
+}
